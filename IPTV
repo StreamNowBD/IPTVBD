@@ -572,7 +572,7 @@ https://aslive.club/cn/hindi/bflix/chunks.m3u8
 https://aslive.club/cn/hindi/stargold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi (Entertainment)",Star Gold 2
 https://aslive.club/cn/hindi/stargold2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="HINDI",Colors Cineplex
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="Hindi (Entertainment)",Colors Cineplex
 https://aslive.club/cn/hindi/colorcineplex/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="Hindi (Entertainment)",Rishtey Cineplex
 https://aslive.club/cn/hindi/risteycineplex/chunks.m3u8
@@ -591,81 +591,81 @@ https://aslive.club/cn/hindi/sonymax/chunks.m3u8
                                                            Indian Movies
 
 
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures SD
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures SD
 http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures SD
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures SD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10134
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures HD
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action
+#EXTINF:-1 group-title="Hindi (Entertainment))" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action
 https://wyjs.tk/index.php/http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action (2)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action (2)
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png",Zee Anmol Cinema
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png",Zee Anmol Cinema (2)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png",Zee Anmol Cinema (2)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10254
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png",ZEE Action
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png",ZEE Action
 https://wyjs.tk/index.php/https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://www.pngjoy.com/pngl/107/2216441_movies-b4u-movies-logo-png-transparent-png.png",B4U Movies
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://www.pngjoy.com/pngl/107/2216441_movies-b4u-movies-logo-png-transparent-png.png",B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png",ZEE Bioscope
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png",ZEE Bioscope
 http://210.210.155.35/session/591b1504-7e5c-11eb-914d-b6588e649a05/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (1)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (1)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6247
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (2)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (2)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10239
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (3)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (3)
 
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png",ZEE Bollywood
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png",ZEE Bollywood
 https://wyjs.tk/index.php/https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://is.gd/C51PJe",Colors Cineplex
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://is.gd/C51PJe",Colors Cineplex
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png",Rishtey Cineplex
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png",Colors Rishtey
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png",Colors Rishtey
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6239
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold (1)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold (1)
 https://wyjs.tk/index.php/http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold (HD)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold (HD)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10161
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
 https://wyjs.tk/index.php/http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/CwdZ9Dg/2021-05-04-11-00-14-removebg-preview.png",Star Gold Select HD
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/CwdZ9Dg/2021-05-04-11-00-14-removebg-preview.png",Star Gold Select HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6228
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (1) -Bdix 
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (1) -Bdix 
 
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (2)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (2)
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (3)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (3)
 http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",SONY MAX HD (4)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",SONY MAX HD (4)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10156
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX SD
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX SD
 
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://www.skychannellist.com/images/sony-max-2.png",SONY MAX 2
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://www.skychannellist.com/images/sony-max-2.png",SONY MAX 2
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18802
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",SONY Wah
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",SONY Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",SONY Wah (2)
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",SONY Wah (2)
 http://tamilbreak.com/jiotv/live.php?c=Sony_Wah&q=800&e=.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png",Maha Movie
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png",Maha Movie
 https://wyjs.tk/index.php/https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://is.gd/UFX1Ub",Box Cinema
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://is.gd/UFX1Ub",Box Cinema
 https://wyjs.tk/index.php/https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg",UTV
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg",UTV
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6236
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/HPSfFVb/download-removebg-preview-1.png",Manoranjan Movies
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.ibb.co/HPSfFVb/download-removebg-preview-1.png",Manoranjan Movies
 https://wyjs.tk/index.php/https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg",B4U Plus
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg",B4U Plus
 
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://b4umovies.us/images/logo.jpg",B4U Movies
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://b4umovies.us/images/logo.jpg",B4U Movies
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi (Entertainment)",Sony Sab
 https://aslive.club/cn/hindi/sonysab/chunks.m3u8
@@ -705,7 +705,7 @@ https://aslive.club/cn/hindi/andpicture/chunks.m3u8
 https://aslive.club/cn/hindi/sonymax/chunks.m3u8
                                                   
 
-												  World & Hindi Movies
+												  English & Hindi Movies
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="English Movies", & Flix HD
