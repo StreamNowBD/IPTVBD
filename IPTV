@@ -510,49 +510,49 @@ http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6234
 #EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png",Big Magic
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi (Entertainment)", & TV SD
 http://103.205.133.19/hls/andtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi (Entertainment)", & TV HD
 http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Entertainment", & TV HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi (Entertainment)", & TV HD (2)
 http://89.41.180.253:8080/INDIA_HINDI/AND_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi (Entertainment)", Colors HD
 http://ztvuk.com:8080/harris/harris123/21353
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi (Entertainment)", Colors HD (2)
 http://89.41.180.253:8080/INDIA_HINDI/COLORS_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi (Entertainment)", Sony Entertainment HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi (Entertainment)", Sony Entertainment HD (2)
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi Entertainment", Sony Entertainment SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi (Entertainment)", Sony Entertainment SD
 http://103.205.133.19/hls/chs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/20NLt9o.jpg" group-title="Hindi Entertainment", Sony Pal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20NLt9o.jpg" group-title="Hindi (Entertainment)", Sony Pal
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2822
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi Entertainment", Sony Sab HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi (Entertainment)", Sony Sab HD
 http://89.41.180.253:8080/INDIA_HINDI/SONY_SAB_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi Entertainment", Sony Sab HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi (Entertainment)", Sony Sab HD (2)
 http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi Entertainment", Star Bharat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi (Entertainment)", Star Bharat
 http://89.41.180.253:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi (Entertainment)", Star Plus SD 
 http://103.205.133.19/hls/chsp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi (Entertainment)", Star Plus HD
 http://103.81.104.118/hls/stream38.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi (Entertainment)", Star Plus HD (2)
 http://tv2.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD (3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi (Entertainment)", Star Plus HD (3)
 http://89.41.180.253:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Entertainment", UTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi (Entertainment)", UTV HD
 http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi (Entertainment)", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi Entertainment", Zee TV HD (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi (Entertainment)", Zee TV HD (2)
 http://89.41.180.253:8080/INDIA_HINDI/ZEE_TV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PGIG8CS.png" group-title="Hindi Entertainment", Zee Zest HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGIG8CS.png" group-title="Hindi (Entertainment)", Zee Zest HD
 http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi (Entertainment)",Sony Sab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Hindi ((Entertainment)",Sony Sab
 https://aslive.club/cn/hindi/sonysab/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi (Entertainment)",Star Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi ((Entertainment)",Star Plus
 https://aslive.club/cn/hindi/starplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi (Entertainment)",Sony Entertainment
 https://aslive.club/cn/hindi/sony/chunks.m3u8
@@ -597,7 +597,7 @@ http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10134
 #EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://i.imgur.com/w32H2Hb.png",& Pictures HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Hindi (Entertainment))" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action
 https://wyjs.tk/index.php/http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png",UTV Action (2)
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
@@ -689,7 +689,7 @@ https://aslive.club/cn/hindi/bflix/chunks.m3u8
 https://aslive.club/cn/hindi/stargold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi (Entertainment)",Star Gold 2
 https://aslive.club/cn/hindi/stargold2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="HINDI",Colors Cineplex
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="Hindi (Entertainment)",Colors Cineplex
 https://aslive.club/cn/hindi/colorcineplex/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="Hindi (Entertainment)",Rishtey Cineplex
 https://aslive.club/cn/hindi/risteycineplex/chunks.m3u8
