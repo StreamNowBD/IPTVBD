@@ -1,4 +1,12 @@
-#EXTM3U
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhCcytg.png" group-title="Bangladesh vs Australia", Live 1
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhCcytg.png" group-title="Bangladesh vs Australia", Live 2
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhCcytg.png" group-title="Bangladesh vs Australia", Live 3
+https://fancodealive1-a.akamaihd.net/d91768f4d7e047f9a53c680602fc51f5/ap-south-1/6008340455001/playlist_dvr.m3u8?hdnea=exp=1628020102~acl=*~id=116502193_MbD_RBZ2ovlvdPQV~data=116502193~hmac=9e5ea398da9f3070fd5abb619884f4aeef19a869fa83f2051674be920798aedc&deviceId=Linux%20armv8l
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/18A7U89.png",IPTVBD-CrackStoreBD
 https://i.imgur.com/EuctKa4.mp4
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/o90Y1Me.png",BTV World
