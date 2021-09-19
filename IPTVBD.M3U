@@ -1,17 +1,17 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/18A7U89.png",IPTVBD-CrackStoreBD
 https://i.imgur.com/EuctKa4.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="Live Events", Live 1
-http://137.59.155.77:8088/hls/01gazitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="Live Events", Live 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EJlWbo.jpg" group-title="Live Events", Live 1
+https://cdnn.ipldekh.xyz/ipllive/480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EJlWbo.jpg" group-title="Live Events", Live 2
 http://103.81.104.118/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="Live Events", Live 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EJlWbo.jpg" group-title="Live Events", Live 3
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="Live Events", Live 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EJlWbo.jpg" group-title="Live Events", Live 4
 http://103.81.104.118/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="Live Events", Live 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EJlWbo.jpg" group-title="Live Events", Live 5
 http://tv.c1live.com:8081/c1O7u0cF8lOzId/gazi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d0bq2cC.jpg" group-title="Live Events", Live 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EJlWbo.jpg" group-title="Live Events", Live 6
 http://titanmedia.one:2082/Rafa/ZY6MJn0jAp/39548
 
 
